@@ -1,7 +1,7 @@
 # poo_project
-###Online shop
+### Online shop
 A console application in C++ that uses POO principles to realize the functionalities of an e-shop.
-#Requirements:
+### Requirements:
 introduction of two types of users: shop and customer
 store specific requirements:
 o adding products
@@ -9,7 +9,7 @@ o editing products
 o deleting products
 o order processing
 o reporting (in a text file) on orders received
-#Customer specific requirements:
+### Customer specific requirements:
 o viewing products in the shop
 o selecting the desired products and placing them in an electronic basket
 o removing products from the electronic basket
