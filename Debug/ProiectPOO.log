@@ -1,0 +1,5 @@
+﻿  Source.cpp
+C:\Users\User\Desktop\POO\ProiectPOO\Source.cpp(514,21): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\User\Desktop\POO\ProiectPOO\Source.cpp(674,28): warning C4244: '=': conversion from 'std::streamoff' to 'long', possible loss of data
+C:\Users\User\Desktop\POO\ProiectPOO\Source.cpp(879,32): warning C4244: '=': conversion from 'std::streamoff' to 'long', possible loss of data
+  ProiectPOO.vcxproj -> C:\Users\User\Desktop\POO\ProiectPOO\Debug\ProiectPOO.exe
